@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// a script that prints the addition of 2 integers
+// prints the addition of 2 integers
 
 function add (a, b) {
   return parseInt(a) + parseInt(b);

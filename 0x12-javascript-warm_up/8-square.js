@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// a script that prints a square
+// prints a square
 
 if (isNaN(process.argv[2])) {
   console.log('Missing size');
